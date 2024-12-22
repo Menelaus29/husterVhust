@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Duoihoc
+comment1.params=posX\ posY
+comment1.target=Duoihoc(int,\ int)
+comment1.text=\r\n\ Connstructor\ for\ shovel\ placing\ it\ in\ the\ right\ position\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ The\ act\ method\ is\ called\ by\ the\ greenfoot\ framework\ to\ give\ actors\ a\ chance\ to\ perform\ some\ action.\r\n
+comment3.params=
+comment3.target=void\ removeHuster()
+comment3.text=\r\n\ Removes\ the\ plant\ if\ the\ shovel\ touches\ it\r\n\ Also\ implemetns\ the\ dragging\ feature\r\n
+numComments=4
