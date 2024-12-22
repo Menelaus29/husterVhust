@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Plants
+comment1.params=
+comment1.target=Plants()
+comment2.params=
+comment2.target=void\ initializePlant()
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ performAction()
+comment5.params=damage
+comment5.target=void\ takeDamage(int)
+comment6.params=fileName\ timeLoop
+comment6.target=void\ dyingPlantAnimation(java.lang.String,\ java.lang.String)
+comment7.params=fileName\ timeLoop
+comment7.target=void\ plantHit(java.lang.String,\ int)
+comment8.params=
+comment8.target=int\ getCost()
+numComments=9
