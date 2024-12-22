@@ -10,7 +10,7 @@
 ## How to Play  
 
 1. **Install Greenfoot**  
-   - To play Library Defense, you need to install [Greenfoot](https://www.greenfoot.org/download), an interactive Java development environment designed for creating games and simulations.  
+   - To play husterVhust, you need to install [Greenfoot](https://www.greenfoot.org/download), an interactive Java development environment designed for creating games and simulations.  
    - Follow the installation instructions for your operating system (Windows, macOS, or Linux).  
 
 2. **Download the Game**  
