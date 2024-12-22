@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=WhackZombie
+comment1.params=spawn\ whacked\ hitCount\ scoreValue
+comment1.target=WhackZombie(java.lang.String,\ java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ hit()
+numComments=4

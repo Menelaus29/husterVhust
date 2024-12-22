@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=XSTK
+comment1.params=
+comment1.target=XSTK()
+comment2.params=
+comment2.target=java.lang.String\ getFrozenImage()
+comment3.params=
+comment3.target=GifImage\ getDefaultGif()
+comment4.params=
+comment4.target=void\ act()
+comment5.params=
+comment5.target=void\ switchToWithoutBucket()
+numComments=6

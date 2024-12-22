@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=TaiLieuHust
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ checkBoundaries()
+comment2.text=\r\n\ Removes\ the\ lawnmower\ from\ the\ world\ if\ it\ reaches\ the\ right\ edge\r\n
+numComments=3
